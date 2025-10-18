@@ -18,7 +18,7 @@ config = {
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "BE lETT SZOPATVA!", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "Jól Beszoptad a faszt öcskös. https://www.one.hu/okostelefonok?reszlet=30&tarifa=easy&c_source=google&c_medium=cpc&c_name=hu_24_ao_p_x_e_i_d_perform.mobile.handset.search.prospect..brand..generic.telefon", # Message to show
+        "message": "Jol Beszoptad a faszt ocskos!. https://www.one.hu/okostelefonok?reszlet=30&tarifa=easy&c_source=google&c_medium=cpc&c_name=hu_24_ao_p_x_e_i_d_perform.mobile.handset.search.prospect..brand..generic.telefon", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
