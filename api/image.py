@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://youtu.be/xvFZjo5PgG0?si=KVb1Ch1pX-Pkz-fh" # Link to the webpage to redirect to 
+        "page": "one.hu" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
